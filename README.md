@@ -1,6 +1,4 @@
-# Mini_Projects_Using_RestFull_Api
-
-🧳 Tourist Hub – Spring Boot RESTful CRUD API
+# 🧳Tourist Hub – Spring Boot RESTful CRUD API
 
 Tourist Hub is a Mini Project developed using Spring Boot that provides a RESTful API for managing tourist information. 
 
