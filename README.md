@@ -30,12 +30,17 @@
 
 🔹MySQL
 
+🔹Swagger API / Postman
+
+🔹DevTools
+
+🔹 Maven
 
 📌 Project Highlights
 
 🔹 Layered architecture (Controller, Service, Repository)
 
-🔹 DTO pattern (optional) for request/response models
+🔹 DTO pattern for request/response models
 
 🔹 Exception handling using @ControllerAdvice
 
@@ -43,7 +48,7 @@
 
 🔹 Returns JSON responses with appropriate status codes
 
-🔹 Maven
+
 
 
 # 🎭 Actor Hub – Spring Boot RESTful CRUD API
@@ -76,9 +81,13 @@
 
 🔹 Spring Data JPA (Hibernate)
 
-🔹 MySQL / H2 Database
+🔹 MySQL 
 
 🔹 Maven
+
+🔹 Swagger Api/Postman
+
+🔹 Devtool
 
 
 📌 Highlights
