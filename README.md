@@ -28,7 +28,7 @@
 
 🔹Spring Web (REST API)
 
-🔹MySQL / H2 Database
+🔹MySQL
 
 
 📌 Project Highlights
